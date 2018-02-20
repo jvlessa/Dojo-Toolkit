@@ -1,4 +1,7 @@
-# Dojo Toolkit
+<p align="center">
+  <img src="https://github.com/jvlessa/Dojo-Toolkit-v1--ArcGis/blob/master/images/dojo-logo.png" width="350">
+</p>
+
 This project was created to test Dojo Toolkit framework and use **ArcGis API for Javascript**
 
 ## Usage
