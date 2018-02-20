@@ -22,3 +22,7 @@ A full featured, lightweight data grid.
 
 * **gridx**: 
 A fast rendering, modularized, plugin based grid.
+
+## References
+* Dojo [API](https://dojotoolkit.org/api/)
+* All their official [tutorials](https://dojotoolkit.org/documentation/#tutorials)
