@@ -30,3 +30,4 @@ A fast rendering, modularized, plugin based grid.
 ## References
 * Dojo [API](https://dojotoolkit.org/api/)
 * All their official [tutorials](https://dojotoolkit.org/documentation/#tutorials)
+* To see ArcGIS for Javascript docs, use this [link](https://developers.arcgis.com/javascript/3/)
