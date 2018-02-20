@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/jvlessa/Dojo-Toolkit-v1--ArcGis/blob/master/images/dojo-logo.png" width="350">
-  <p>This project was created to test Dojo Toolkit framework and use <b>ArcGis API for Javascript</b></p>
 </p>
+
+<p align="center">This project was created to test Dojo Toolkit framework and use <b>ArcGis API for Javascript</b></p>
 
 ## Usage
 * **require**: enables you to load modules and use them;
