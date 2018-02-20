@@ -1,7 +1,7 @@
 require([
     'dojo/dom',
     'dojo/dom-construct',
-    'demo/myModule'
+    'helloDojoModules/myModule'
 ], 
 function (dom, domConstruct, myModule) {
     //** -- DOM CONSTRUCT -- **
