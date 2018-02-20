@@ -1,4 +1,5 @@
-# Dojo-Toolkit-1
+# Dojo Toolkit
+This project was created to test Dojo Toolkit framework and use **ArcGis API for Javascript**
 
 ## Usage
 * **require**: enables you to load modules and use them;
