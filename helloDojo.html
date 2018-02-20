@@ -9,8 +9,22 @@
     <h1 id="greeting">Hello</h1>
     <div id="destroy-this">Testing destruction</div>
 
+    <!-- My Modules -->
+    <h1 id="text-changer">Text before change</h1>
+    
+    <!-- Calling Package and its location -->
+    <script>
+        var dojoConfig = {
+            async: true,
+            packages: [{
+                name: "demo",
+                location: location.pathname.replace(/\/[^/]*$/, '') + '/demo'
+            }]
+        };
+    </script>
+
     <!-- Loading Dojo and JS files -->
     <script src="http://ajax.googleapis.com/ajax/libs/dojo/1.13.0/dojo/dojo.js" data-dojo-config="async: true"></script>
-    <script src="dom-construct.js"></script>
+    <script src="modules.js"></script>
 </body>
 </html>

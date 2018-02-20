@@ -1,8 +1,10 @@
 require([
     'dojo/dom',
-    'dojo/dom-construct'
+    'dojo/dom-construct',
+    'demo/myModule'
 ], 
-function (dom, domConstruct, arrayUtil) {
+function (dom, domConstruct, myModule) {
+    //** -- DOM CONSTRUCT -- **
     var greetingNode = dom.byId('greeting'); //gets element by id
     domConstruct.place('<em> Dojo!</em>', greetingNode); //places something after id
 
@@ -11,4 +13,11 @@ function (dom, domConstruct, arrayUtil) {
 
     domConstruct.destroy("destroy-this"); //destroying node
     //domConstruct.empty("someId"); //destroy node's child
+
+    //** -- MY MODULE -- **
+    myModule.setText('text-changer', 'Testing changed');
+
+    setTimeout(function () {
+        myModule.restoreText('text-changer');
+    }, 3000);
 });
