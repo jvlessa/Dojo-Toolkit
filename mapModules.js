@@ -3,7 +3,10 @@ require([
     "esri/map", 
     "dojo/domReady!"
 ], 
-function(esriBasemaps, Map, domConstruct) {
+function(
+    esriBasemaps, 
+    Map
+) {
 
     //Customized Basemap
     esriBasemaps.delorme = {
