@@ -1,5 +1,8 @@
-# Dojo Toolkit
-This project was created to test Dojo Toolkit framework and use **ArcGis API for Javascript**
+<p align="center">
+  <img src="https://github.com/jvlessa/Dojo-Toolkit-v1--ArcGis/blob/master/images/dojo-logo.png" width="350">
+</p>
+
+<p align="center">This project was created to test Dojo Toolkit framework and use <b>ArcGis API for Javascript</b></p>
 
 ## Usage
 * **require**: enables you to load modules and use them;
@@ -27,3 +30,4 @@ A fast rendering, modularized, plugin based grid.
 ## References
 * Dojo [API](https://dojotoolkit.org/api/)
 * All their official [tutorials](https://dojotoolkit.org/documentation/#tutorials)
+* To see ArcGIS for Javascript docs, use this [link](https://developers.arcgis.com/javascript/3/)
