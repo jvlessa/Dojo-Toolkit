@@ -1,5 +1,9 @@
 # Dojo-Toolkit-1
 
+## Usage
+* **require**: enables you to load modules and use them;
+* **define**: allows you to define your own modules;
+
 ## Package distribution
 * **Dojo**: 
 This is the main part of Dojo and the most generally applicable packages and modules are contained in here. The core covers a wide range of functionality like AJAX, DOM manipulation, class-type programming, events, promises, data stores, drag-and-drop and internationalization libraries.
@@ -18,7 +22,3 @@ A full featured, lightweight data grid.
 
 * **gridx**: 
 A fast rendering, modularized, plugin based grid.
-
-## Usage
-* **require**: enables you to load modules and use them;
-* **define**: allows you to define your own modules;
