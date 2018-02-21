@@ -31,3 +31,8 @@ A fast rendering, modularized, plugin based grid.
 * Dojo [API](https://dojotoolkit.org/api/)
 * All their official [tutorials](https://dojotoolkit.org/documentation/#tutorials)
 * To see ArcGIS for Javascript docs, use this [link](https://developers.arcgis.com/javascript/3/)
+
+## Things you should know about ArcGis and Maps
+* **Feature Class** classes are homogeneous collections of common features, each having the same spatial representation, such as points, lines, or polygons, and a common set of attribute columns. A set of common geographic features, for example roads, or parcels, or land use, as they are stored in a geodatabase or shapefile, or other storage format. 
+
+* **Feature Layer** is the representation of a feature class after it is loaded into ArcMap
