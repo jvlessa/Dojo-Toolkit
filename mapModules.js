@@ -1,15 +1,13 @@
 require([
     "esri/basemaps",
     "esri/map", 
-    'dojo/dom',
-    'dojo/dom-construct',    
+    'dojo/dom',    
     "dojo/domReady!"
 ], 
 function(
     esriBasemaps, 
     Map,
-    dom, 
-    domConstruct
+    dom
 ) {
 
     //Customized Basemap
@@ -21,11 +19,9 @@ function(
     };
 
     var map = new Map("map", {
-      center: [-118, 34.5],
-      zoom: 8,
+      center: [-45.880920, -23.195103],
+      zoom: 11,
       basemap: "delorme"
-    }); 
-
-    domConstruct.create("div", { innerHTML:"<p>This is a paragraph inside a div</p>" }, dojo.body());
+    });
 
   });
