@@ -35,4 +35,4 @@ A fast rendering, modularized, plugin based grid.
 ## Things you should know about ArcGis and Maps
 * **Feature Class** classes are homogeneous collections of common features, each having the same spatial representation, such as points, lines, or polygons, and a common set of attribute columns. A set of common geographic features, for example roads, or parcels, or land use, as they are stored in a geodatabase or shapefile, or other storage format. 
 
-* **Feature Layer** is the representation of a feature class after it is loaded into ArcMap
+* **Feature Layer** is the representation of a feature class after it is loaded into ArcMap;
