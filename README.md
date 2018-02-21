@@ -36,3 +36,9 @@ A fast rendering, modularized, plugin based grid.
 * **Feature Class** classes are homogeneous collections of common features, each having the same spatial representation, such as points, lines, or polygons, and a common set of attribute columns. A set of common geographic features, for example roads, or parcels, or land use, as they are stored in a geodatabase or shapefile, or other storage format. 
 
 * **Feature Layer** is the representation of a feature class after it is loaded into ArcMap;
+
+* **Layer File (.lyr)** is a file that stores the path to a source dataset and other layer properties, including symbology. In comparison to a shapefile, a layer file is a just a link\reference to actual data, such as a shapefile, feature class, etc;
+
+* **Geodatabase** is an alternate way to store GIS information in one large file, which can contain multiple point, polygon, and/or polyline layers;
+
+* **Shapefile** is an Esri vector data storage **format** for storing the location, shape, and attributes of geographic features;
