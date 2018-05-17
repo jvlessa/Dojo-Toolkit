@@ -4,6 +4,11 @@
 
 <p align="center">This project was created to test Dojo Toolkit framework and use <b>ArcGis API for Javascript</b></p>
 
+## References
+* Dojo [API](https://dojotoolkit.org/api/)
+* Dojo [Tutorials](https://dojotoolkit.org/documentation/#tutorials)
+* Esri API [for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/)
+
 ## Usage
 * **require**: enables you to load modules and use them;
 * **define**: allows you to define your own modules;
@@ -26,11 +31,6 @@ A full featured, lightweight data grid.
 
 * **gridx**: 
 A fast rendering, modularized, plugin based grid.
-
-## References
-* Dojo [API](https://dojotoolkit.org/api/)
-* All their official [tutorials](https://dojotoolkit.org/documentation/#tutorials)
-* To see ArcGIS for Javascript docs, use this [link](https://developers.arcgis.com/javascript/3/)
 
 ## Things you should know about ArcGis and Maps
 * **Feature Class** classes are homogeneous collections of common features, each having the same spatial representation, such as points, lines, or polygons, and a common set of attribute columns. A set of common geographic features, for example roads, or parcels, or land use, as they are stored in a geodatabase or shapefile, or other storage format. 
