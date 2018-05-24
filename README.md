@@ -8,7 +8,9 @@
 ## References
 * Dojo [API](https://dojotoolkit.org/api/)
 * Dojo [Tutorials](https://dojotoolkit.org/documentation/#tutorials)
-* Esri API [for JavaScript](https://developers.arcgis.com/javascript/3/jsapi/)
+* Esri API [for JavaScript 3](https://developers.arcgis.com/javascript/3/jsapi/)
+* Esri API [for JavaScript 4.7](https://developers.arcgis.com/javascript/latest/api-reference/index.html)
+
 
 ## Usage
 * **require**: enables you to load modules and use them;
