@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/jvlessa/Dojo-Toolkit-v1--ArcGis/blob/master/images/dojo-logo.png" width="350">
+  <img src="https://github.com/jvlessa/Dojo-Toolkit-w--ArcGIS-for-JavaScript/blob/master/images/dojo.png" width="350">
+  <img src="https://github.com/jvlessa/Dojo-Toolkit-w--ArcGIS-for-JavaScript/blob/master/images/esrijs.png" width="250">
 </p>
 
 <p align="center">This project was created to test Dojo Toolkit framework and use <b>ArcGis API for Javascript</b></p>
